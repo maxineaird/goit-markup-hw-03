@@ -452,8 +452,9 @@ margin-bottom: 16px;
 }
 
 
-/* .first-row-list-item {
-} */
+.first-row-list-item {
+  border: 1px solid #E7E9FC;
+}
 .first-row-list-title {
 margin-bottom: 8px;
 }
@@ -475,6 +476,7 @@ margin-bottom: 8px;
 }
 
 .second-row-list-item {
+  border: 1px solid #E7E9FC;
 }
 .second-row-list-title {
   margin-bottom: 8px;
@@ -497,6 +499,7 @@ margin-bottom: 8px;
 }
 
 .third-row-list-item {
+  border: 1px solid #E7E9FC;
 }
 .third-row-list-title {
   margin-bottom: 8px;
