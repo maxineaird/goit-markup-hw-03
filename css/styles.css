@@ -229,10 +229,6 @@ color: var(--second-color);
   padding-bottom: 188px;
 }
 
-.section{
-  max-width: 100%;
-}
-
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
@@ -306,6 +302,11 @@ border-radius: 4px;
 /* .work {
 } */
 
+.section{
+  max-width: 100%;
+  padding-bottom: 120px;
+}
+
 .work-title {
   color: var(--main-color);
   margin-bottom: 72px;
@@ -323,10 +324,8 @@ border-radius: 4px;
 
 /* ----------------------------- TEAM */
 
-.team {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
+/* .team {
+} */
 
 .team-title {
   color: var(--main-color);
@@ -443,6 +442,7 @@ margin-bottom: 16px;
 
 .cards-content {
   padding-top: 32px;
+  padding-bottom: 32px;
   padding-left: 16px;
   border: 1px solid var(--btn-border-color);
   border-top: none;
